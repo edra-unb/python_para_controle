@@ -1,2 +1,2 @@
-# python_para_controle
-Capacitação em Python para Começar a Aprender RosPy e AirSim
+# Python para Controle
+Capacitação do Time de Controle em Python e em Git
